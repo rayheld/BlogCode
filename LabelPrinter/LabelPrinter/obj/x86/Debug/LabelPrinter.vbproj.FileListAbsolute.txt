@@ -1,0 +1,11 @@
+M:\Projects\LabelPrinter\LabelPrinter\bin\x86\Debug\LabelPrinter.exe.config
+M:\Projects\LabelPrinter\LabelPrinter\bin\x86\Debug\LabelPrinter.exe
+M:\Projects\LabelPrinter\LabelPrinter\bin\x86\Debug\LabelPrinter.pdb
+M:\Projects\LabelPrinter\LabelPrinter\bin\x86\Debug\LabelPrinter.xml
+M:\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.frmManualPrint.resources
+M:\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.frmPrinterSelection.resources
+M:\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.Resources.resources
+M:\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.vbproj.GenerateResource.Cache
+M:\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.exe
+M:\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.xml
+M:\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.pdb

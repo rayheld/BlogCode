@@ -1,0 +1,12 @@
+C:\Users\rheld.DESMOINES\AppData\Local\Temporary Projects\LabelPrinter\bin\Debug\LabelPrinter.exe.config
+M:\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.exe.config
+M:\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.exe
+M:\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.pdb
+M:\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.xml
+M:\Projects\LabelPrinter\LabelPrinter\obj\Debug\LabelPrinter.frmManualPrint.resources
+M:\Projects\LabelPrinter\LabelPrinter\obj\Debug\LabelPrinter.frmPrinterSelection.resources
+M:\Projects\LabelPrinter\LabelPrinter\obj\Debug\LabelPrinter.Resources.resources
+M:\Projects\LabelPrinter\LabelPrinter\obj\Debug\LabelPrinter.vbproj.GenerateResource.Cache
+M:\Projects\LabelPrinter\LabelPrinter\obj\Debug\LabelPrinter.exe
+M:\Projects\LabelPrinter\LabelPrinter\obj\Debug\LabelPrinter.xml
+M:\Projects\LabelPrinter\LabelPrinter\obj\Debug\LabelPrinter.pdb

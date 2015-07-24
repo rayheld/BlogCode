@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LabelPrinter
+</name>
+</assembly>
+<members>
+<member name="P:LabelPrinter.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:LabelPrinter.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:LabelPrinter.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:LabelPrinter.Printer.HexTool.AsciiToHex(System.String)">
+	<summary>
+ Converts to HEX value of ascii character for each character in the string.  This is needed because the ZPL contains characters that we can't save in the XML
+ </summary>
+	<param name="value"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:LabelPrinter.Printer.HexTool.HexToAscii(System.String)">
+	<summary>
+ Converts the hex values of the ZPL back to an ascii character for each hex pair in the string.
+ </summary>
+	<param name="value"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:LabelPrinter.Printer.RawHelper.SendFileToPrinter(System.String,System.String)">
+	<summary>
+ Sends a file to the printer in RAW format
+ </summary>
+	<param name="printerName">The windows driver name/path for the printer</param>
+	<param name="filePath">The file to be printed</param>
+	<returns></returns>
+	<remarks>Only use ANSI data as this will print in RAW format</remarks>
+</member><member name="M:LabelPrinter.Printer.RawHelper.SendStringToPrinter(System.String,System.String)">
+	<summary>
+ Send a string to the selected printer in RAW format
+ </summary>
+	<param name="printerName">The windows driver name/path for the printer</param>
+	<param name="stringToPrint">The ANSI text that is to be printed to the printer</param>
+	<returns></returns>
+	<remarks>Only use ANSI data as this will print in RAW format</remarks>
+</member>
+</members>
+</doc>
